@@ -1,0 +1,19 @@
+.time-date{
+    display: flex;
+    justify-content: space-between;
+}
+.order-id-date-outer{
+    display: flex;
+    align-items: center;
+}
+.order-id{
+    margin-right: 20px;
+}
+.total{
+    color: orangered;
+}
+.bottom{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
